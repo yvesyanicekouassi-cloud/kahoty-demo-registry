@@ -1,0 +1,1 @@
+# kahoty-demo-registry
